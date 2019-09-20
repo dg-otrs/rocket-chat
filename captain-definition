@@ -1,4 +1,3 @@
-# We use the official docker image by rocket chat
 {
  "schemaVersion": 2,
  "imageName": "rocket.chat"
