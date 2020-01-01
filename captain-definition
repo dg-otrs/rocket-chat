@@ -1,4 +1,4 @@
 {
  "schemaVersion": 2,
- "imageName": "rocketchat/rocket.chat:2.3.2"
+ "imageName": "rocketchat/rocket.chat:2.4.0"
 }
