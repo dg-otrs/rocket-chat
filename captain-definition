@@ -1,4 +1,8 @@
 {
  "schemaVersion": 2,
+<<<<<<< HEAD
  "imageName": "rocketchat/rocket.chat:2.3.2"
+=======
+ "imageName": "rocket.chat"
+>>>>>>> parent of e1819dd... readme
 }
